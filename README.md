@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Youssef Essarhani</h1>
 <h3 align="center">Software engineering And MEAN Stack Developer</h3>
 
-- 🔭 I’m currently working on **PFE**
+- 🔭 I’m currently working on **MY PROJECT**
 
-- 💬 Ask me about **Any time**
+- 💬 Ask me about **MEAN STACK, //any time**
 
 - 📫 How to reach me **youssef.essarhani@etu.uae.ac.ma**
 
