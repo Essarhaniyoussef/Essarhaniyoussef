@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **MY PROJECT**
 
-- 💬 Ask me about **MEAN STACK, //any time**
+- 💬 Ask me about **MEAN STACK**
 
 - 📫 How to reach me **youssef.essarhani@etu.uae.ac.ma**
 
