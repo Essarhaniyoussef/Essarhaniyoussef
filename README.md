@@ -72,9 +72,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Essarhaniyoussef/Essarhaniyoussef/output/snake.svg" alt="Snake animation" />
-
-###
