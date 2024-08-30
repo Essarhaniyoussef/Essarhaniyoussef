@@ -69,6 +69,8 @@
   <img src="https://skillicons.dev/icons?i=python" height="30" alt="python logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo" /> 
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/puppeteer/40B5A4" height="30" alt="Puppeteer logo" />
 </div>
 
 ###
