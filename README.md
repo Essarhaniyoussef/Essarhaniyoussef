@@ -1,4 +1,4 @@
-<h2 align="left"> Hi 👋! My name is Youssef ESSARHANI and I'm a Software Engineering Student And MEAN Stack Developer 🚀 </h2>
+<h2 align="left"> Hi 👋! My name is Youssef ESSARHANI and I'm a Software Engineering Student And Full Stack Developer 🚀 </h2>
 
 ###
 
@@ -19,6 +19,8 @@
   <img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/angular/DD0031" height="30" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/react/61DAFB" height="30" alt="react logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="30" alt="bash logo"  />
   <img width="12" />
@@ -54,7 +56,7 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="30" alt="ubuntu logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="30" alt="vscode logo"  />
+  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="30" alt="Visual Studio Code logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=stackoverflow" height="30" alt="stackoverflow logo"  />
   <img width="12" />
